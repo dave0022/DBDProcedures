@@ -1,0 +1,16 @@
+A:\SearchEngine\DBD-Compulsory-Assignment-1-master\DBD-Compulsory-Assignment-1-master\Code\TestApp\TestApp\bin\Debug\netcoreapp2.2\TestApp.deps.json
+A:\SearchEngine\DBD-Compulsory-Assignment-1-master\DBD-Compulsory-Assignment-1-master\Code\TestApp\TestApp\bin\Debug\netcoreapp2.2\TestApp.runtimeconfig.json
+A:\SearchEngine\DBD-Compulsory-Assignment-1-master\DBD-Compulsory-Assignment-1-master\Code\TestApp\TestApp\bin\Debug\netcoreapp2.2\TestApp.runtimeconfig.dev.json
+A:\SearchEngine\DBD-Compulsory-Assignment-1-master\DBD-Compulsory-Assignment-1-master\Code\TestApp\TestApp\bin\Debug\netcoreapp2.2\TestApp.dll
+A:\SearchEngine\DBD-Compulsory-Assignment-1-master\DBD-Compulsory-Assignment-1-master\Code\TestApp\TestApp\bin\Debug\netcoreapp2.2\TestApp.pdb
+A:\SearchEngine\DBD-Compulsory-Assignment-1-master\DBD-Compulsory-Assignment-1-master\Code\TestApp\TestApp\bin\Debug\netcoreapp2.2\Domain.dll
+A:\SearchEngine\DBD-Compulsory-Assignment-1-master\DBD-Compulsory-Assignment-1-master\Code\TestApp\TestApp\bin\Debug\netcoreapp2.2\Infrastructure.dll
+A:\SearchEngine\DBD-Compulsory-Assignment-1-master\DBD-Compulsory-Assignment-1-master\Code\TestApp\TestApp\bin\Debug\netcoreapp2.2\Domain.pdb
+A:\SearchEngine\DBD-Compulsory-Assignment-1-master\DBD-Compulsory-Assignment-1-master\Code\TestApp\TestApp\bin\Debug\netcoreapp2.2\Infrastructure.pdb
+A:\SearchEngine\DBD-Compulsory-Assignment-1-master\DBD-Compulsory-Assignment-1-master\Code\TestApp\TestApp\obj\Debug\netcoreapp2.2\TestApp.csprojAssemblyReference.cache
+A:\SearchEngine\DBD-Compulsory-Assignment-1-master\DBD-Compulsory-Assignment-1-master\Code\TestApp\TestApp\obj\Debug\netcoreapp2.2\TestApp.csproj.CoreCompileInputs.cache
+A:\SearchEngine\DBD-Compulsory-Assignment-1-master\DBD-Compulsory-Assignment-1-master\Code\TestApp\TestApp\obj\Debug\netcoreapp2.2\TestApp.AssemblyInfoInputs.cache
+A:\SearchEngine\DBD-Compulsory-Assignment-1-master\DBD-Compulsory-Assignment-1-master\Code\TestApp\TestApp\obj\Debug\netcoreapp2.2\TestApp.AssemblyInfo.cs
+A:\SearchEngine\DBD-Compulsory-Assignment-1-master\DBD-Compulsory-Assignment-1-master\Code\TestApp\TestApp\obj\Debug\netcoreapp2.2\TestApp.csproj.CopyComplete
+A:\SearchEngine\DBD-Compulsory-Assignment-1-master\DBD-Compulsory-Assignment-1-master\Code\TestApp\TestApp\obj\Debug\netcoreapp2.2\TestApp.dll
+A:\SearchEngine\DBD-Compulsory-Assignment-1-master\DBD-Compulsory-Assignment-1-master\Code\TestApp\TestApp\obj\Debug\netcoreapp2.2\TestApp.pdb

@@ -1,0 +1,16 @@
+A:\DBD1\DBD1\DBD1\DBD1\bin\Debug\netcoreapp2.2\DBD1.deps.json
+A:\DBD1\DBD1\DBD1\DBD1\bin\Debug\netcoreapp2.2\DBD1.runtimeconfig.json
+A:\DBD1\DBD1\DBD1\DBD1\bin\Debug\netcoreapp2.2\DBD1.runtimeconfig.dev.json
+A:\DBD1\DBD1\DBD1\DBD1\bin\Debug\netcoreapp2.2\DBD1.dll
+A:\DBD1\DBD1\DBD1\DBD1\bin\Debug\netcoreapp2.2\DBD1.pdb
+A:\DBD1\DBD1\DBD1\DBD1\bin\Debug\netcoreapp2.2\Domain.dll
+A:\DBD1\DBD1\DBD1\DBD1\bin\Debug\netcoreapp2.2\Infrastructure.dll
+A:\DBD1\DBD1\DBD1\DBD1\bin\Debug\netcoreapp2.2\Domain.pdb
+A:\DBD1\DBD1\DBD1\DBD1\bin\Debug\netcoreapp2.2\Infrastructure.pdb
+A:\DBD1\DBD1\DBD1\DBD1\obj\Debug\netcoreapp2.2\DBD1.csprojAssemblyReference.cache
+A:\DBD1\DBD1\DBD1\DBD1\obj\Debug\netcoreapp2.2\DBD1.csproj.CoreCompileInputs.cache
+A:\DBD1\DBD1\DBD1\DBD1\obj\Debug\netcoreapp2.2\DBD1.AssemblyInfoInputs.cache
+A:\DBD1\DBD1\DBD1\DBD1\obj\Debug\netcoreapp2.2\DBD1.AssemblyInfo.cs
+A:\DBD1\DBD1\DBD1\DBD1\obj\Debug\netcoreapp2.2\DBD1.csproj.CopyComplete
+A:\DBD1\DBD1\DBD1\DBD1\obj\Debug\netcoreapp2.2\DBD1.dll
+A:\DBD1\DBD1\DBD1\DBD1\obj\Debug\netcoreapp2.2\DBD1.pdb
